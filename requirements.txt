@@ -1,0 +1,5 @@
+anthropic>=0.49.0
+streamlit>=1.39.0
+pypdf>=4.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
