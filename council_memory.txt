@@ -1,0 +1,6 @@
+
+
+[2026-04-06 — Beef Cattle Economic Research, Results]
+- **Presents unsubstantiated quantitative claims as results without table/figure references or traceable model outputs**
+- **Uses placeholder language ("meaningfully," "not surprising") instead of precise numerical findings; conflates hypothetical scenarios with actual results**
+- **States sensitivity findings without specifying the parameter bounds or input conditions that produced them, rendering conclusions uninterpretable**

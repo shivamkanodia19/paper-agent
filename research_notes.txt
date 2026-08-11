@@ -1,0 +1,1 @@
+This paper is based on Excel-based feedlot decision making for feedlot operators. There is ZERO Machine Learning involved here.
